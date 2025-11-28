@@ -44,11 +44,9 @@ The dataset `updated8.csv` contains fields like:
 
 ## 🚀 How to Run the Project
 
-### Step 1: Install dependencies
+### Step : Install dependencies Run the Streamlit App
 ```bash
 pip install -r requirements.txt
 
-### Step 2: Run the Streamlit App
-```bash
 streamlit run app.py
 
